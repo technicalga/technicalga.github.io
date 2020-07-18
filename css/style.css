@@ -170,7 +170,7 @@ h6 {
 #intro {
   width: 100%;
   position: relative;
-  
+  color:white;
   background-size: cover;
   padding: 200px 0 120px 0;
   background-image: linear-gradient(to right, #f90909, #ff004d, #f90082, #da18b2, #a84cd6, #826dee, #5486fb, #009aff, #00b6ff, #00d0ff, #00e7fc, #5ffbf1);
@@ -202,7 +202,6 @@ h6 {
   margin-bottom: 40px;
   font-size: 24px;
   font-weight: 700;
-  position: relative;
 }
 
 #intro .intro-info h4 span {
