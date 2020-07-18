@@ -194,16 +194,11 @@ h6 {
 #intro .intro-img {
   width: 50%;
   float: right;
-
-  #intro .intro-info {
-  width: 50%;
-  float: left;
-  {
-
+  
     #intro .intro-info h2 {
   color: #fff;
   margin-bottom: 40px;
-  font-size: 48px;
+  font-size: 8px;
   font-weight: 700;
 }
 
