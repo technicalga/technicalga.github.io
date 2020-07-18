@@ -196,6 +196,10 @@ h6 {
   
 }
 
+#intro .intro-img {
+  width: 50%;
+  float: right;
+
 #intro .intro-info h2 {
   color: #fff;
   margin-bottom: 40px;
