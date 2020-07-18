@@ -190,17 +190,17 @@ h6 {
   border-bottom-left-radius: 50% 50%;
 }
 
-#intro .intro-info {
-  width: 50%;
-  float: right;
-  
-}
 
 #intro .intro-img {
   width: 50%;
   float: right;
 
-#intro .intro-info h2 {
+  #intro .intro-info {
+  width: 50%;
+  float: left;
+  {
+
+    #intro .intro-info h2 {
   color: #fff;
   margin-bottom: 40px;
   font-size: 48px;
