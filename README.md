@@ -1,0 +1,1 @@
+# technicalga.github.io
